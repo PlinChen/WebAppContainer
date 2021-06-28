@@ -1,0 +1,17 @@
+{
+"companyName": "UnityTechnologies",
+"productName": "BoatAttack",
+"productVersion": "0.9",
+"dataUrl": "BoatAttack.data.unityweb",
+"wasmCodeUrl": "BoatAttack.wasm",
+"wasmFrameworkUrl": "BoatAttack.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "BoatAttack.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.28f1c1"
+}
