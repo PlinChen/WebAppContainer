@@ -6,6 +6,3 @@
 
 ## Ocean RPG
 - [Ocean RPG](./OceanRPG/index.html)
-
-## HDC
-- [HDC](./hdc/index.html)
